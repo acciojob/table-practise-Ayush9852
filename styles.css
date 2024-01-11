@@ -2,11 +2,9 @@
 table {
       background-color: yellow;
       border: 1px solid black;
-      border-collapse: collapse;
-      width: 80%;
+      width: fit;
       margin: 20px;
     }
-
     th, td {
       border: 1px solid black;
       padding: 8px;
